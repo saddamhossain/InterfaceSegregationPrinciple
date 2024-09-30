@@ -7,6 +7,5 @@
  -> A class must not have to implement any interface element that is not required by the particular class.
 */
 
-
 Console.WriteLine("Hello there! The Single Responsibility Principle is here! Please check the codebase.");
 Console.ReadKey();
